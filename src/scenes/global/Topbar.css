@@ -1,0 +1,22 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .search-bar {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .icons {
+    display: flex;
+  }
+  
+  /* Media queries for responsiveness */
+  @media only screen and (max-width: 600px) {
+    .topbar {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+  

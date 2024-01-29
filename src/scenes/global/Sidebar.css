@@ -1,0 +1,11 @@
+/* @media screen and (max-width: 768px) {
+  .sidebar {
+    collapsed:{isCollapsed};
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .sidebar {
+    width: 100%;
+  }
+} */
